@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-Limiter
+Flask-Session
+Flask-SQLAlchemy
+SQLAlchemy
+python-dotenv
+Werkzeug
+itsdangerous
